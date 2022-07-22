@@ -3,6 +3,8 @@
 
 <a href="https://collinson165.github.io/Amazing-Things/public" target="_blank">Amazing-Things</a>
 
+[Design Guru](https://collinson165.github.io/DesignGuru/)
+
 
 
 
