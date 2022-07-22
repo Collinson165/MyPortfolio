@@ -3,7 +3,13 @@
 
 <a href="https://collinson165.github.io/Amazing-Things/public" target="_blank">Amazing-Things</a>
 
-[Design Guru](https://collinson165.github.io/DesignGuru/)
+<a href="https://collinson165.github.io/DesignGuru/" target="_blank">Design Guru</a>
+
+<a href="https://Collinson165.github.io/portfolio/" target="_blank">Simple Portfolio Site</a>
+
+<a href="https://collinson165.github.io/LogTravels/" target="_blank">Log Travels</a>
+
+
 
 
 
