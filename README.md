@@ -3,11 +3,6 @@
 
 <a href="https://collinson165.github.io/Amazing-Things/public" target="_blank">Amazing-Things</a>
 
-# Checking
-## Checking2
-### Checking3
-
-[Link](https://collinson165.github.io/Amazing-Things/public)
 
 
 
